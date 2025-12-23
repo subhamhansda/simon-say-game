@@ -1,0 +1,67 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+.main1 {
+    display: flex;
+    justify-content: center;
+}
+
+.main2 {
+    display: flex;
+    justify-content: center;
+}
+
+/*body{
+    text-align:center;
+}*/
+.red {
+
+    width: 175px;
+    border: 5px solid black;
+    border-radius: 10%;
+    margin: 15px;
+    background-color: #d9597f;
+    text-align: center;
+}
+
+.green {
+    height: 175px;
+    width: 175px;
+    border: 5px solid black;
+    border-radius: 10%;
+    margin: 15px;
+    background-color: #63aac0;
+    text-align: center;
+}
+
+.orange {
+    width: 175px;
+    border: 5px solid black;
+    border-radius: 10%;
+    margin: 15px;
+    background-color: #f99b45;
+    text-align: center;
+}
+
+.blue {
+    height: 175px;
+    width: 175px;
+    border: 5px solid black;
+    border-radius: 10%;
+    margin: 15px;
+    background-color: #819ff9;
+    text-align: center;
+}
+
+.gameFlash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: green;
+}
+.white{
+    background-color: white;
+}
